@@ -11,10 +11,7 @@ Android Studio or Visual Studio Code
 Basic knowledge of Flutter/Dart
 
 #Features
-Doctor Appointment
-Corona Status
-BMI Calculator
-Latest Health News
+Basic application asked as per requirement.
 
 #Installation
 
