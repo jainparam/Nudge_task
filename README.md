@@ -17,7 +17,7 @@ Basic application asked as per requirement.
 
 Clone the repo
 
-git clone https://github.com/SamwitAdhikary/EZHEALTH-Medical-App
+git clone https://github.com/jainparam/Nudge_task
 
 Install the dependencies
 
